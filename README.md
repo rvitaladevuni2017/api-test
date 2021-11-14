@@ -33,3 +33,8 @@ User Guide to Execute Api Test:
                  
                  -  After execution go to reports - AutomationReport.html to see the results.
 
+![api-test-report1](https://user-images.githubusercontent.com/56835649/141675415-ca450b5d-1e54-44db-ac07-b6fbfff30032.jpg)
+![api-test-report](https://user-images.githubusercontent.com/56835649/141675425-19be3eca-e29d-4a67-a251-31f8c505493f.jpg)
+
+
+
