@@ -3,8 +3,6 @@ Pre-Condition:
 
 Java jdk 11 or greater should be Installed.
 
-Latest version of Chrome and Mozilla browser should be Installed.
-
 Latest version of Git should be Installed.
 
 Latest version of Maven should be Installed.
@@ -20,7 +18,7 @@ User Guide to Execute Api Test:
                  - In left panel open the api-test[commtest] project 
                  
                  - Go to src->main->resources->config.properties , 
-	                    - mention the base url for api automation.
+	                - mention the base url for api automation.
                         - mention the api_id and app_key for rest api automation.
 	                     		
                  -  In api-test[commtest] project open the directory called Testsuite.
